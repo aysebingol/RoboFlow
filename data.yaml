@@ -1,8 +1,6 @@
-path: ./dataset  
+path: ./dataset
 train: train/images
-val: train/images  
+val: train/images
 
 nc: 1
-names: ['person']
-
-
+names: ["person"]
