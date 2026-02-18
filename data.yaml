@@ -1,0 +1,11 @@
+train: train/images
+val: train/images
+nc: 1
+names: ['person']
+
+roboflow:
+  workspace: yolov5-q03r3
+  project: yolov5yeni
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/yolov5-q03r3/yolov5yeni/dataset/1
