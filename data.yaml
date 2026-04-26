@@ -1,7 +1,7 @@
 train: train/images
 val: train/images
 nc: 1
-names: ['person']
+names: ["person"]
 
 roboflow:
   workspace: yolov5-q03r3
